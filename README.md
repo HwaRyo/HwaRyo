@@ -1,6 +1,16 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm HwaRyo
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
 
+<!-- Skills
+Java Kotlin SpringBoot Android
+Oracle MySQL Firebase MongoDB -->
+
+
+<!-- Career
+
+Activity -->
+
+
 # Github Stats
 <a href='#'>
  <img src = "https://github-readme-stats.vercel.app/api?username=HwaRyo&theme=buefy&show_icons=true&hide_border=true" height = "180px">
