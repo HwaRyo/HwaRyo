@@ -1,6 +1,5 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm HwaRyo
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
-- ⌨️  I can use `Python`, `Java`, `MySQL`, `Android Studio`.
 
 # Github Stats
 <a href='#'>
