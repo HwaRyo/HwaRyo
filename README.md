@@ -1,6 +1,8 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm HwaRyo
 - 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
 
+!메인 공사중!
+
 <!-- Skills
 Java Kotlin SpringBoot Android
 Oracle MySQL Firebase MongoDB -->
