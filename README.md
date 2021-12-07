@@ -6,11 +6,13 @@
 
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
 ![issue badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
-![issue badge](http://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white)
-![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
-![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
+![issue badge](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![issue badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 Java Kotlin SpringBoot Android
-Oracle MySQL Firebase MongoDB
+Oracle MySQL Firebase
 
 
 <!-- Career
