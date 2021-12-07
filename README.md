@@ -5,7 +5,7 @@
 
 
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
-![issue badge](http://img.shields.io/badge/-Java-FF0323C3?style=flat&logo=Kotlin)
+![issue badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin)
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
