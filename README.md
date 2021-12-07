@@ -3,9 +3,10 @@
 
 !메인 공사중입니다.!
 
-<!-- Skills
+Skills
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
 Java Kotlin SpringBoot Android
-Oracle MySQL Firebase MongoDB -->
+Oracle MySQL Firebase MongoDB
 
 
 <!-- Career
