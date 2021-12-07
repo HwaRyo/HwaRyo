@@ -4,7 +4,7 @@
 
 
 
-# Stack
+# 🛠Stack
 <div align=center> 
    <img src="http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white">
    <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
@@ -16,7 +16,7 @@
 </div>
 
 
-# Project
+# 💻Project
 - [Every Town_자취방양도 시스템 앱(2020.09~2020.12)](https://github.com/HwaRyo/EveryTown)
 - [Today News_뉴스키워드 기반 실시간 이슈 분석 앱(2021.03~2021.06)](https://github.com/HwaRyo/Today_News)
 - [Little My For Rest_식물 육성 다이어리를 통한 심리치료 앱(2021.08~2021.11)](https://github.com/HwaRyo/My_Little_For_Rest)
@@ -24,7 +24,7 @@
 
 
 
-# Github Stats
+# 📚Github Stats
 <div align=center>
 <a href='#'>
  <img src = "https://github-readme-stats.vercel.app/api?username=HwaRyo&theme=buefy&show_icons=true&hide_border=true" height = "180px">
