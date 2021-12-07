@@ -3,7 +3,7 @@
 
 
 
-<div align=center><h1>🛠 STACKS</h1></div>
+<div align=center><h1>Stack</h1></div>
 <div align=center> 
    <img src="http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white">
    <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
@@ -15,11 +15,11 @@
 </div>
 
 
-<div align=center><h1>📚 PROJECT</h1></div>
+<div align=center><h1>Project</h1></div>
 
 
 
-<div align=center><h1>:octocat: Github Stats</h1></div>
+<div align=center><h1> Github Stats</h1></div>
 <div align=center>
 <a href='#'>
  <img src = "https://github-readme-stats.vercel.app/api?username=HwaRyo&theme=buefy&show_icons=true&hide_border=true" height = "180px">
@@ -28,6 +28,7 @@
  
   
 
+<div align=center
 ## ☎️Contact me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HwaRyo)](https://hits.seeyoufarm.com)
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/HwaRyo)](https://github.com/HwaRyo)
