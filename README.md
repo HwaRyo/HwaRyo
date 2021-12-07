@@ -17,9 +17,9 @@
 
 
 # Project
-- [Every Town (자취방양도 시스템 어플리케이션)] (https://github.com/HwaRyo/EveryTown)
-- [Today News(뉴스를 키워드 및 감성 분석을 하여 긍부정 비율을 포함한 핫토픽을 알려주는 어플리케이션)](https://github.com/HwaRyo/Today_News)
-- [Little My For Rest(식물 육성 다이어리 및 커뮤니티 통한 코로나블루 및 우울증 심리치료 어플리케이션)](https://github.com/HwaRyo/My_Little_For_Rest)
+- [Every Town (자취방양도 시스템 앱)](https://github.com/HwaRyo/EveryTown)
+- [Today News(뉴스키워드 기반 실시간 이슈 분석 앱)](https://github.com/HwaRyo/Today_News)
+- [Little My For Rest(식물 육성 다이어리를 통한 코로나블루 및 우울증 심리치료 앱)](https://github.com/HwaRyo/My_Little_For_Rest)
 - SW역량강화 플랫폼 사업(정의된 6대역량 점수를 도출하여 제공하는 홈페이지 제작)
 
 
