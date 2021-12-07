@@ -20,7 +20,7 @@
 
 
 
-# <img src="http://img.shields.io/badge/-FF0000?style=flat&logo=Git"> Github Stats
+# Github Stats
 <div align=center>
 <a href='#'>
  <img src = "https://github-readme-stats.vercel.app/api?username=HwaRyo&theme=buefy&show_icons=true&hide_border=true" height = "180px">
