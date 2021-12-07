@@ -17,10 +17,10 @@
 
 
 # Project
-- [Every Town_자취방양도 시스템 앱(2020.09 ~ 2020.12)](https://github.com/HwaRyo/EveryTown)
-- [Today News_뉴스키워드 기반 실시간 이슈 분석 앱(2021.03 ~ 2021.06)](https://github.com/HwaRyo/Today_News)
-- [Little My For Rest_식물 육성 다이어리를 통한 코로나블루 및 우울증 심리치료 앱(2021.08 ~ 2021.11)](https://github.com/HwaRyo/My_Little_For_Rest)
-- SW역량강화 플랫폼 사업_선문대학교 SW중심사업단 역량강화 플랫폼 홈페이지(2021.08 ~ 2021.11)
+- [Every Town_자취방양도 시스템 앱(2020.09~2020.12)](https://github.com/HwaRyo/EveryTown)
+- [Today News_뉴스키워드 기반 실시간 이슈 분석 앱(2021.03~2021.06)](https://github.com/HwaRyo/Today_News)
+- [Little My For Rest_식물 육성 다이어리를 통한 심리치료 앱(2021.08~2021.11)](https://github.com/HwaRyo/My_Little_For_Rest)
+- SW역량강화 플랫폼_선문대학교 SW중심사업단 역량강화 플랫폼 홈페이지(2021.08~2021.11)
 
 
 
