@@ -4,7 +4,7 @@
 
 
 
-#Stack
+# Stack
 <div align=center> 
    <img src="http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white">
    <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
@@ -16,11 +16,11 @@
 </div>
 
 
-#Project
+# Project
 
 
 
-#Github Stats
+# <img src="http://img.shields.io/badge/?style=flat&logo=Git"> Github Stats
 <div align=center>
 <a href='#'>
  <img src = "https://github-readme-stats.vercel.app/api?username=HwaRyo&theme=buefy&show_icons=true&hide_border=true" height = "180px">
