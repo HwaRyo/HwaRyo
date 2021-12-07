@@ -4,11 +4,11 @@
 !메인 공사중입니다.!
 
 
-![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white")
-![issue badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white")
-![issue badge](http://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white")
-![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white")
-![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Jav&logoColor=white"a)
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white)
 Java Kotlin SpringBoot Android
 Oracle MySQL Firebase MongoDB
 
