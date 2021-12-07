@@ -3,7 +3,11 @@
 
 !메인 공사중입니다.!
 
-Skills
+
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
+![issue badge](http://img.shields.io/badge/-Java-FF0323C3?style=flat&logo=Kotlin)
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
+![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
 ![issue badge](http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java)
 Java Kotlin SpringBoot Android
 Oracle MySQL Firebase MongoDB
