@@ -7,7 +7,6 @@
 # 🛠Stack
 <div align=center> 
    <img src="http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white">
-   <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
    <img src="http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
    <img src="http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white">
    <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
