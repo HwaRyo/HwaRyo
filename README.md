@@ -1,6 +1,8 @@
-# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm YoungHo Han
+# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">안녕하세요. 백엔드 개발자를 희망하고 있는 한영호입니다!
 
-- 🎓 I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
+#🎓 About Me
+<a>제 가치관은 시간의 지키는 것이 신뢰의 첫걸음이라고 생각합니다. 왜냐하면, 일에는 그에 맞는 기한이 할당되고 그것은 모든 것들의 기본이라고 생각합니다.</a>
+- I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
 
 
 
