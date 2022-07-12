@@ -8,7 +8,7 @@
 <div align=center> 
    <img src="http://img.shields.io/badge/-Java-FA5858?style=flat&logo=Java&logoColor=white">
    <img src="http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
-   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+   <img src="http://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
    <img src="http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white">
    <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
    <img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
