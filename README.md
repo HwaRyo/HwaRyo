@@ -1,5 +1,5 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello i'm YoungHo Han.
-<a>&nbsp;안녕하세요. 백엔드 개발자를 희망하고 있는 한영호입니다!<a/>
+<a>&nbsp;hello. I'm hoping to be a backend developer!<a/>
 
 # 🎓 About Me
    I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
