@@ -2,7 +2,8 @@
 - I'm hoping to be a backend developer!
 
 # 🎓 About Me
-  - I majored in **Computer Science and Engineering** in Sunmoon University (2017.03 ~ ing)
+  - I majored in Computer Science and Engineering in Sunmoon University (2017.03 ~ 2023.02)
+  - I am working in Nonghyup Information System (2022.12 ~ ing)
 
 # 🛠Stack
 <div align=center> 
@@ -23,7 +24,9 @@
 - [Little My For Rest_식물 육성 다이어리를 통한 심리치료 앱(2021.08~2021.11)](https://github.com/HwaRyo/My_Little_For_Rest)
 - SW역량강화 플랫폼_선문대학교 SW중심사업단 역량강화 플랫폼 홈페이지(2021.08~2021.12)
 - [VideoMosaicWeb_사생활 보호 침해를 방지하기 위한 모자이크 서비스(2022.03~2022.06)](https://github.com/HwaRyo/VideoMosaicWeb)
-
+- [트리하우스 보드게임 카페 홈페이지 개발 및 운영(2023.03 ~ ing)](http://treehousebgc.com/home)
+- NH농협손해보험 옴니청약 시스템 운영(2022.12 ~ ing)
+- NH농협손해보험 단체상해플랫폼(2023.06 ~ 2023.09)
 
 
 # 📚Github Stats
